@@ -1,5 +1,5 @@
 # Discussing about the Project 3
-
+Our rendered repo is [here](https://github.com/ViviFeathers/ST558-PROJECT-3/blob/main/Project_3_final.md), which is a nicely rendered repo.
 Our repo is located [here](https://github.com/ViviFeathers/ST558-PROJECT-3), which has the outlined readme file including all five education categories.
 
 ## What would you do differently?
