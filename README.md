@@ -7,3 +7,4 @@ install.packages ("ggplot2")
 install.packages ("dplyr")
 install.packages ("htmltools")
 
+Command to access this shinyapp in R: shiny::runGitHub("ssybbc/ssybbc.github.io")
