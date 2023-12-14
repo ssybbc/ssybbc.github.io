@@ -130,10 +130,12 @@ ggplot (nbaplayerdata2022, aes (x=player_height))+
   geom_density (adjust =0.5, alpha = 0.5, aes (fill = team_abbreviation), position = "stack")+
   facet_wrap(~team_division)
   
-
 ggplot (nbaplayerdata2022, aes (x=player_weight))+
   geom_density (adjust =0.5, alpha = 0.5, aes (fill = team_abbreviation), position = "stack")+
   facet_wrap(~team_division)
 
+ggplot (nbaplayerdata, aes (x=player_height))+
+  geom_density (adjust =0.5, alpha = 0.5)+
+  facet_wrap(~seasonshort)
 # In the app, we could let user to choose which variables they wanted to see in both scatter plot and the density plots.
 
